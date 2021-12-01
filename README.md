@@ -9,7 +9,7 @@ A backend game engine built in Node.js. Deployed to [Heroku](https://desolate-co
 ## The Development Team
   ### Richard Hillman
 
-Contributing Developers: 
+## Contributing Developers: 
   ### Dee Watson
   ### Sarah Skillen
   ### Katie Jones
