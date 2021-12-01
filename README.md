@@ -1,4 +1,4 @@
-# cherry-plotter-2021
+# Geomungo
 
 ## Description
 
@@ -7,14 +7,12 @@ A backend game engine built in Node.js. Deployed to [Heroku](https://desolate-co
 --- 
 
 ## The Development Team
+  Richard Hillman
 
-Richard Hillman
-
-Dee Watson
-
-Sarah Skillen
-
-Katie Jones
+Contributing Developers 
+  Dee Watson
+  Sarah Skillen
+  Katie Jones
 
 ---
 
@@ -30,8 +28,8 @@ Katie Jones
 
 * [lodash](https://lodash.com/)
 
-### Meta
+### Description 
 
-Our project planning took place on our [Miro board](https://miro.com/app/board/o9J_lZdD9oE=/) and [Trello](https://trello.com/b/LGsxFgLK/step-by-step).
+The core engine of this game was developed at Alchemy Code Lab with the contributing developers over a week long sprint. The continuation of this project is carried on by developer Richard Hillman into an open world text adventure based game featuring a lone Korean Scholar whos spirit has been brought back from the afterlife to escort other spirits into their afterlives through the music of the geomungo. 
 
-###### Version 1.0.0, January 2021
+###### Version 1.0.0, NOV 2021
